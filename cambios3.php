@@ -4,7 +4,7 @@
     <header> <img src="baner.png" width="1589" height="359" alt="baner"/>
     <span class="style10"><table align="center"><tr><td><a href="index.html"> Información </a></td>
     <td><a href="pagina2.php"> Registración </a></td>
-    <td><a href="pagina3.html"> Tabla </a></td>
+    <td><a href="pagina3.html"> Calcular Precios </a></td>
     </table></span></header> 
         <?php
             echo "CONECTANDO....";
