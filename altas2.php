@@ -28,7 +28,7 @@ font-family: Verdana, Arial, Helvetica, sans-serif;
     <header> <img src="baner.png" width="1589" height="359" alt="baner"/>
     <span class="style10"><table align="center"><tr><td><a href="index.html"> Información </a></td>
     <td><a href="pagina2.php"> Registración </a></td>
-    <td><a href="pagina3.php"> Tabla </a></td>
+    <td><a href="pagina3.php"> Calcular Precios </a></td>
     </table></span></header> 
     <?php 
     $conexion=new mysqli('localhost:3306', 'root', '', 'musica');
